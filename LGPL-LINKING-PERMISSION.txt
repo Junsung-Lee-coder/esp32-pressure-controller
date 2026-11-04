@@ -1,0 +1,9 @@
+Additional Permission for Combined Executables Using LGPL Libraries
+
+For the first-party portions owned by Junsung Lee in a combined executable that includes a library licensed under the GNU Lesser General Public License, version 2.1, Junsung Lee grants each lawful recipient permission to modify the combined work for that recipient's own use, and to reverse engineer it for debugging such modifications. This permission includes rebuilding and relinking the work with a recipient-modified version of an LGPL library, and using the resulting executable for that recipient's own use.
+
+This additional permission for the recipient's own use is not restricted to noncommercial purposes. To the extent that the first-party PolyForm Noncommercial License 1.0.0 would restrict the activities expressly permitted above, this additional permission prevails only for those activities.
+
+This additional permission does not grant additional rights to redistribute first-party material or combined executables. Except as expressly provided here, the first-party material remains subject to the PolyForm Noncommercial License 1.0.0 and its required notices.
+
+No third-party software, font, library, or SDK component is relicensed or restricted by this permission. All rights granted by its respective license, including rights to use, modify, reverse engineer where permitted, and redistribute LGPL library code, remain intact. This permission does not impose the first-party noncommercial restriction on third-party material.
